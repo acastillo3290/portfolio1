@@ -1,19 +1,20 @@
 ---
-title: 'Project 1'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: "Masorchi"
+description: "A 2D iPhone game developed in Swift and SpriteKit"
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+  url: "/masorchi.png"
+  alt: "Masorchi App Store Picture"
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+  url: "/masorchi-appstore.png"
+  alt: "first image of your project."
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+  url: "/reviews.png"
+  alt: "second image of your project."
+platform: iPhone & iPad
+stack: Swift, SpriteKit
+website: https://apps.apple.com/us/app/masorchi/id6608964082
+github: https://github.com/aaronc-capstone-game-2024/iphone-game
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+Throughout my capstone journey, I dedicated the first four weeks to learning Swift and SpriteKit. During this initial phase, I completed small projects and followed detailed tutorials to solidify my understanding. I then spent the remaining four weeks to developing my final, comprehensive project.
+I’m proud of what I’ve built and excited for you to try it out. Download Masorchi today and let me know what you think!
