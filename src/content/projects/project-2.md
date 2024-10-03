@@ -16,4 +16,4 @@ website: https://github.com/Wheeze-Watchers/wheeze-watchers-civic-tech
 github: https://github.com/Wheeze-Watchers/wheeze-watchers-civic-tech
 ---
 
-Eaze aims to aid young people of color within NYC who are afflicted with asthma in finding and connecting with users who have asthma. I developed both the front-end and back-end components of the discussion page for our website
+Eaze is a full-stack JavaScript desktop application that provides users with resources for asthma. The app offers users an intuitive interface to access the best resources for treating asthma, along with a way for users to discuss any problems or symptoms they may be experiencing. More specifically I developed the entire discussion page, from the front-end components and back-end routes.

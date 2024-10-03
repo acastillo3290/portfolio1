@@ -11,9 +11,9 @@ worksImage2:
   url: "/wander-map.png"
   alt: "second image of your project."
 platform: Web
-stack: Astro, JavaScript
+stack: React, JavaScript
 website: https://github.com/cris-and-aaron/wander-wheels
 github: https://github.com/cris-and-aaron/wander-wheels
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+Wander Wheels is a React-based desktop application that provides real-time routes to any destination worldwide. The app offers users an intuitive interface to access the best driving routes to their camping destinations, including alternative routes, travel time estimation, and route options to avoid tolls.
